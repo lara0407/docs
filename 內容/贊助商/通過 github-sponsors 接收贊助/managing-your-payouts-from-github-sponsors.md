@@ -1,4 +1,4 @@
----
+Ok---
 title: Managing your payouts from GitHub Sponsors
 intro: 'You can view information about past and future payouts from {% data variables.product.prodname_sponsors %} and edit your bank information.'
 redirect_from:
